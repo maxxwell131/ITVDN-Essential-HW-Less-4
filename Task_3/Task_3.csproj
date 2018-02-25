@@ -3,10 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{2AB804D2-E25C-46C0-BB06-88E6CEEE4805}</ProjectGuid>
+    <ProjectGuid>{E92AB7D2-C456-4A03-82F3-89ABF842214B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Task_1</RootNamespace>
-    <AssemblyName>Task_1</AssemblyName>
+    <RootNamespace>Task_3</RootNamespace>
+    <AssemblyName>Task_3</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">

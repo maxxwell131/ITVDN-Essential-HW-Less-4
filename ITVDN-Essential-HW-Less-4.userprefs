@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{922C5AB5-1059-4133-9643-8633D4FCA0FD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AdditionalTask/Program.cs">
+    <Files>
+      <File FileName="ITVDN-Essential-HW-Less-4/Program.cs" Line="1" Column="1" />
+      <File FileName="AdditionalTask/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AdditionalTask PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

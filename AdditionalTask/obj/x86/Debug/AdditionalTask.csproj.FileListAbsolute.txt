@@ -1,0 +1,5 @@
+/Users/olegcudnovskij/Projects/ITVDN-Essential-HW-Less-4/AdditionalTask/bin/Debug/AdditionalTask.exe
+/Users/olegcudnovskij/Projects/ITVDN-Essential-HW-Less-4/AdditionalTask/bin/Debug/AdditionalTask.pdb
+/Users/olegcudnovskij/Projects/ITVDN-Essential-HW-Less-4/AdditionalTask/obj/x86/Debug/AdditionalTask.csproj.CoreCompileInputs.cache
+/Users/olegcudnovskij/Projects/ITVDN-Essential-HW-Less-4/AdditionalTask/obj/x86/Debug/AdditionalTask.exe
+/Users/olegcudnovskij/Projects/ITVDN-Essential-HW-Less-4/AdditionalTask/obj/x86/Debug/AdditionalTask.pdb

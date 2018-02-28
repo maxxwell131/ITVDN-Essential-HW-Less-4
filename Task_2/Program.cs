@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Task_2
 {
@@ -18,7 +19,19 @@ namespace Task_2
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            List<AbstractHandler> abstractHandlerList = new List<AbstractHandler>();
+
+            abstractHandlerList.Add(new XMLHandler("*.xml"));
+            abstractHandlerList.Add(new TXTHandler("*.txt"));
+            abstractHandlerList.Add(new DOCHandler("*.doc"));
+
+            foreach (AbstractHandler obj in abstractHandlerList)
+            {
+                obj.Open();
+                obj.Create();
+                obj.Change();
+                obj.Save();
+            }
         }
     }
 }

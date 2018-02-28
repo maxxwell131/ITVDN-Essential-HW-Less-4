@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{922C5AB5-1059-4133-9643-8633D4FCA0FD}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="AdditionalTask/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task_2/Program.cs">
     <Files>
-      <File FileName="AdditionalTask/Document/Document.cs" Line="10" Column="34" />
-      <File FileName="AdditionalTask/Document/Parts/Title.cs" Line="8" Column="13" />
-      <File FileName="AdditionalTask/Document/Parts/Footer.cs" Line="20" Column="13" />
-      <File FileName="AdditionalTask/Document/Parts/Body.cs" Line="19" Column="13" />
-      <File FileName="AdditionalTask/Program.cs" Line="16" Column="13" />
-      <File FileName="AdditionalTask/Document/Parts/Part.cs" Line="9" Column="9" NotebookId="1" />
+      <File FileName="Task_2/XMLHandler.cs" Line="13" Column="1" />
+      <File FileName="Task_2/AbstractHandler.cs" Line="24" Column="9" />
+      <File FileName="Task_3/Program.cs" Line="1" Column="1" />
+      <File FileName="Task_2/Program.cs" Line="11" Column="66" />
+      <File FileName="Task_2/TXTHandler.cs" Line="8" Column="10" NotebookId="1" />
+      <File FileName="Task_2/DOCHandler.cs" Line="11" Column="10" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />

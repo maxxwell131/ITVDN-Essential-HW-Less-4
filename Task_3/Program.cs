@@ -17,7 +17,18 @@ namespace Task_3
 
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Player player = new Player();
+            IPlayable playerRecording = player as IPlayable;
+            playerRecording.Pause();
+            playerRecording.Play();
+            playerRecording.Stop();
+
+            IRecodable recodable = player as IRecodable;
+            recodable.Pause();
+            recodable.Record();
+            recodable.Stop();
+
+            Console.ReadKey();
         }
     }
 }

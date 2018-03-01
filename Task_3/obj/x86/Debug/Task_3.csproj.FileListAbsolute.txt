@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\hw\ITVDN-Essential-HW-Less-4\Task_3\bin\Debug\Task_3.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\hw\ITVDN-Essential-HW-Less-4\Task_3\bin\Debug\Task_3.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\hw\ITVDN-Essential-HW-Less-4\Task_3\obj\x86\Debug\Task_3.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\hw\ITVDN-Essential-HW-Less-4\Task_3\obj\x86\Debug\Task_3.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\hw\ITVDN-Essential-HW-Less-4\Task_3\obj\x86\Debug\Task_3.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\hw\ITVDN-Essential-HW-Less-4\Task_3\obj\x86\Debug\Task_3.pdb

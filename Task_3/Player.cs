@@ -8,9 +8,9 @@ namespace Task_3
 {
     class Player : IRecodable, IPlayable
     {
-        void IRecodable.Pause()
+        public void Pause()
         {
-            Console.WriteLine("IRecodable.Pause()");
+            Console.WriteLine("Pause()");
         }
 
         void IRecodable.Record()
@@ -18,24 +18,14 @@ namespace Task_3
             Console.WriteLine("IRecodable.Record()");
         }
 
-        void IRecodable.Stop()
+        public void Stop()
         {
-            Console.WriteLine("IRecodable.Stop()");
+            Console.WriteLine("Stop()");
         }
 
-        void IPlayable.Pause()
+        public void Play()
         {
-            Console.WriteLine("IPlayable.Pause()");
-        }
-
-        void IPlayable.Play()
-        {
-            Console.WriteLine("IPlayable.Play()");
-        }
-
-        void IPlayable.Stop()
-        {
-            Console.WriteLine("IPlayable.Stop()");
+            Console.WriteLine("Play()");
         }
     }
 }
